@@ -1,8 +1,8 @@
 # NASA Open Science 101 — Learning Documentation
 
-**Author:** Mitu Shil
-**License:** MIT
-**Status:** In progress — documenting each module as I complete the course
+**Author:** Mitu Shil  
+**License:** MIT  
+**Status:** In progress  — documenting each module as I complete the course
 
 ---
 
