@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "NASA Open Science 101 — Learning Documentation"
+message: "If you reference or build upon this work, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Shil"
+    given-names: "Mitu"
+    orcid: "https://orcid.org/0009-0006-3114-3524"
+repository-code: "https://github.com/MituShil/nasa-open-science-101"
+license: MIT
+date-released: "2025-05-02"
+keywords:
+  - open science
+  - NASA TOPS
+  - reproducible research
+  - FAIR data
+  - open access
+  - undergraduate research
